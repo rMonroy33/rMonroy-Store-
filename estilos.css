@@ -41,7 +41,7 @@ header{
 .logo_img{
 	width: 50px;
 	position: absolute;
-	transform: translateX(-1760px) translateY(-3px);
+	transform: translateX(-960px) translateY(-3px);
 }
 .contenedor{
 	position: absolute;
