@@ -49,7 +49,7 @@ header{
 	width: 100%;
 	height: 100vh;
 
-	background: url(Imagenes/fondo12.jpg);
+	background: url(fondo12.jpg);
 	background-position: center;
 	background-size: cover;
 	background-attachment: fixed;
@@ -72,7 +72,7 @@ header{
 	padding: 20px 0px;
 }
 .seccion{
-	background: url(imagenes/fondo3.jpg);
+	background: url(fondo3.jpg);
 	width: 100%;
 	height: 110vh;
 	background-position: center;
@@ -102,7 +102,7 @@ header{
 
 /*Replicas*/
 .seccion_1{
-	background: url(imagenes/fondo7.jpg);
+	background: url(fondo7.jpg);
 	width: 100%;
 	height: 110vh;
 	background-position: center;
@@ -113,7 +113,7 @@ header{
 	align-items: center;
 }
 .seccion_2{
-	background: url(imagenes/fondo6.jpg);
+	background: url(fondo6.jpg);
 	width: 100%;
 	height: 110vh;
 	background-position: center;
